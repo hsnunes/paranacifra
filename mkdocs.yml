@@ -1,0 +1,35 @@
+site_name: My Docs
+site_name: ParáNaCifra
+site_url: https://hsnunes.github.io/
+
+markdown_extensions:
+  - pymdownx.tasklist
+
+
+nav:
+  - Home: 'index.md'
+  - Músicas: 'musicas.md'
+  - Artistas:
+    - Canto Caboclo: 'artistas/canto-caboclo.md'
+    - Grupo Muxinga: 'artistas/muxinga.md'
+  - Estilos: 'generos.md'
+  - Contato:
+    - Mensagem: 'contato.md'
+    - Sobre: 'sobre.md'
+
+theme: 
+  name: material
+  language: pt-BR
+  font:
+    text: Roboto
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
