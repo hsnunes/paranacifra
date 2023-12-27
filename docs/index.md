@@ -1,5 +1,12 @@
 # Pará na Cifra
 
+***Última Atualização 27/12/2023***<br>
+**Sem Pitiú - Grupo Muxinga - Carimbó**<br>
+```Completa: Áudio | Vídeo | Letra | Cifra```<br>
+
+
+
+
 | ***Última Atualização 29/11/2023***                                                                                                                                             |  |  |
 | :---                                          | :----                                                                         | :---                                |
 | [Amor de Tambor](./artistas/canto-caboclo.md#amor-de-tambor---carimbó)<br>Canto Caboclo (carimbó) - 29/11/2023    | [Utensílios Caboclo](./artistas/canto-caboclo.md#utensílios-caboclo---carimbó)<br>Canto Caboclo (carimbó) - 29/11/2023    | [Matinta](./artistas/canto-caboclo.md#matinta---reggae)<br>Canto Caboclo (reggae) - 29/11/2023   |

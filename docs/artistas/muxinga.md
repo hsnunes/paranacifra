@@ -3,6 +3,55 @@
 #### Descrição
 
 
+#### Sem Pitiú - carimbó
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZUgKTRDSBE?si=Q2XCvPpdA3pbrcPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<pre>
+Fm                   C7            Fm
+Pode ser dourada, pescada ou pirarucu
+                   Bbm
+Cozido ou feito na brasa
+    C7             Fm
+Meu peixe é sem pitiu
+
+Fm                   C7           Fm
+Pode ser dourada, pescada ou pirarucu
+                   Bbm
+Cozido ou feito na brasa
+    C7             Fm
+Meu peixe é sem pitiú
+
+Fm        C7
+Eu gosto assado de forno
+         Fm
+Na folha da bananeira
+         C7
+Eu como até moqueado
+        Fm
+Guisado na frigideira
+
+         Bbm
+Adoro um peixe no almoço
+             Fm
+Na janta, ao forno um filé
+          C7
+Um caldo quente dá gosto
+          Fm
+É bom servir no café
+
+         Bbm
+Adoro um peixe no almoço
+            Fm
+Na janta ao forno um filé
+          C7
+Um caldo quente da gosto
+          Fm
+É bom servir no café
+
+Fm
+Pode ser dourada...
+</pre>
+
+
 #### Cheiro de Rosas - carimbó
 <pre>
 Morena ja vou partir
@@ -176,4 +225,3 @@ Kuiatã, a Boiúna e o Boto Sinhá.
 A Matinta-Pereira, na mata faceira,
 Conheceu o amor do Tamba-Tajá.
 </pre>
-
